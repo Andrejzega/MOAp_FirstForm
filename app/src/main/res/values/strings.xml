@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstForm</string>
+    <string name="title">Registracijski forum</string>
+    <string name="username_hint">Uporabniško ime</string>
+    <string name="fullname_hint">Ime in Priimek</string>
+    <string name="country_hint">Država</string>
+    <string name="email_hint">E-naslov</string>
+    <string name="phonenumber_hint">Telefonska Številka</string>
+    <string name="password_hint">Geslo</string>
+    <string name="gender_hint">Spol</string>
+    <string name="gender_male_hint">Geslo</string>
+    <string name="gender_female_hint">Geslo</string>
+</resources>
